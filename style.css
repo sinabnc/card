@@ -102,9 +102,7 @@ img {
 .card:hover .profile-image {
   border: 1px solid rgb(110, 252, 205);
 }
-.profile-image > svg {
-  stroke: #fefefe;
-}
+
 .card:hover .profile-image > svg {
   stroke: rgb(110, 252, 205);
 }
